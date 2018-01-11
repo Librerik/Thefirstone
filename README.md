@@ -1,4 +1,4 @@
-Link to [index.md]
+[link](index.md)
 
 ## Welcome to GitHub Pages
 
